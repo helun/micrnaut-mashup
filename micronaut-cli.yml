@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: se.cygni.mashup
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, assertj, http-client, java, java-application, junit, maven, netty-server, openapi, reactor, reactor-http-client, readme, shade, slf4j-simple, yaml]
